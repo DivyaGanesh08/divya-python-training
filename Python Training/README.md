@@ -55,3 +55,33 @@ commands// upload file from VS code to github repository
 
 ~Home Assignment
 Practice programs
+
+Week4
+(Day-7)
+~list oprations 
+      append
+      extend
+      remove
+      pop
+      slice
+      update the list element using index
+      accessing the list elemeent
+      find the index of the list
+      count of elements in the list
+~string operations
+      Get characters from input string
+      replace string/char in given input string
+      str to list
+      li to str
+      upper and lower
+      length of the string
+      access string characters
+      string reverse
+      removing trail & rear space
+~linear search
+~binary search
+~recursion
+      factorial
+      fibonacci
+      tower of hanoi
+      
