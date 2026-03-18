@@ -3,8 +3,6 @@
 def bubble_sort(arr, order="asc"):
     n = len(arr)
     swap_count = 0
-
-    # Make a copy so original list is not changed
     sorted_arr = arr.copy()
 
     for i in range(n):
