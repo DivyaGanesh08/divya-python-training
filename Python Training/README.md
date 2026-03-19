@@ -91,5 +91,20 @@ Week4
 Week5
 (Day-9)
 ~binarysearch in guvi portal program
-~bubble sort
+
+~ theory class
+      bubble sort
+      selection sort
+      quick sort
+      insertion sort
+      radix sort 
+(Day-10)
+~program based 
+      bucket sort
+      merge sort
+      quick sort
+      radix sort 
+~ gaming program
+      N-Queen 
+      Sudoku 
       
