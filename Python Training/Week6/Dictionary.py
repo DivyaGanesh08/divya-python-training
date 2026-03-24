@@ -51,24 +51,6 @@ for ch in s:
 else:
     print("No non-repeating character found")
 
-# group of anagrams 
-
-words = input("Enter words separated by space: ").split()
-
-anagram_dict = {}
-
-for word in words:
-    
-    key = ''.join(sorted(word))
-    
-    if key in anagram_dict:
-        anagram_dict[key].append(word)
-    else:
-        anagram_dict[key] = [word]
-
-print("Grouped Anagrams:")
-for group in anagram_dict.values():
-    print(group)
 
 # find index of 2 nums that sums up the target (input list)
 
@@ -106,3 +88,22 @@ for key in dict2:
         merged[key] = dict2[key]
 
 print("Merged Dictionary:", merged)
+
+# group of anagrams 
+
+words = input("Enter words separated by space: ").split()
+
+anagram_dict = {}
+
+for word in words:
+    
+    key = ''.join(sorted(word))
+    
+    if key in anagram_dict:
+        anagram_dict[key].append(word)
+    else:
+        anagram_dict[key] = [word]
+
+print("Grouped Anagrams:")
+for group in anagram_dict.values():
+    print(group)
