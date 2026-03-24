@@ -7,4 +7,4 @@ print(intersection)
 # remove duplicates from list in set
 my_list = [1, 2, 2, 3, 4, 4]
 unique = list(set(my_list))
-print(unique)  
+print(unique) 

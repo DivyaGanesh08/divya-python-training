@@ -107,4 +107,15 @@ Week5
 ~ gaming program
       N-Queen 
       Sudoku 
+
+Week6
+(Day-11)
+~Collection of data types
+       List
+       Tuple
+       Set
+       Dictionary
+      #methods , programs based on collections 
+      
+
       
