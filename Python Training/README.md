@@ -87,6 +87,8 @@ Week4
 
 (Day-8)
 ~GUVI TEST - 1
+      MCQ
+      2 programs - palindrome &  ______________
 
 Week5
 (Day-9)
@@ -117,5 +119,31 @@ Week6
        Dictionary
       #methods , programs based on collections 
       
+(Day-12)
+  
 
+Week7
+(Day-13)
+      - Gov Holiday
+(Day-14)
+
+~Implementing stack in python using list   (LAST IN FIRST OUT)
+~Queue in python      (FIRST IN FIRST OUT) 
+    enqueue or dequeue concept 
+STACK & QUEUE based programs
+   stack using list
+   queue using dequeue
+
+~ TREE
+    ~tree terminology
+          Node,Root,Edge/branch, parent , child, siblings,leaf node, internal node, height
+    ~ tree traversal
+         Inorder - Left Root Right 
+         Preorder - Root left right
+         Postorder - left right root 
+         level order - Sorted array
+
+Assignment - given node  find tree terminology  , tree traversal        
+
+~ GUVI TEST - 2 
       
