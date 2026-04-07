@@ -147,3 +147,31 @@ Assignment - given node  find tree terminology  , tree traversal
 
 ~ GUVI TEST - 2 
       
+Week8
+(Day-15)
+
+~Binary Search Tree (BST) operations
+      insert op
+      search op
+      delete - node with leaf, node with 1 child, node with 2 child (successor,predecessor ) operations
+      find height  - Height = number of levels / 
+                     height = 1 + max(left, right)
+      CHECK BALANCED - 
+        if abs(left_height - right_height) > 1:
+             return false
+
+~AVL Tree operation
+        Height difference (Balance Factor) = height(left) - height(right)
+               Must be in {-1, 0, +1}
+               If it goes beyond → we rebalance using rotations
+OPERATIONS:
+      Insert
+      Delete
+      Search
+      Get Height
+      Check Balance
+      Rotations (LL, RR, LR, RL)    
+                LL → Right rotate
+                RR → Left rotate
+                LR → Left + Right
+                RL → Right + Left
